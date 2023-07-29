@@ -1,3 +1,7 @@
+rf.net
+rf.log
+rf.op.raw
+rf.raw
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
